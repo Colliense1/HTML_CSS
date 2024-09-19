@@ -43,7 +43,6 @@ body {
     content: "Software Engineer";
     color: var(--main_color);
     animation: words 20s infinite;
-
 }
 
 .text_animation span::after {
